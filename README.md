@@ -13,5 +13,7 @@
  </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o-tao&show_icons=true&theme=highcontrast">
+  <img src="https://github-readme-stats.vercel.app/api?username=o-tao&show_icons=true&theme=dark" alt="깃허브 스탯" height="150" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=o-tao&theme=merko&locale=ko&hide_longest_streak=true" alt="깃허브 연속 기여" height="150" />
 </p>
